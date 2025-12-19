@@ -66,24 +66,24 @@ const aymane = {
 
 ## Parcours Académique & Professionnel
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Formation+Acad%C3%A9mique;Exp%C3%A9riences+Professionnelles;Mont%C3%A9e+en+Comp%C3%A9tences+Continue" /></div>
-```mermaid
 gantt
     title Parcours Académique & Professionnel
-    2019 - 2020 : Baccalauréat Sciences Mathématiques
-                : Lycée Ali Ben Berri – Taza
-    2020 - 2022 : Technicien Spécialisé en Développement Informatique
-                : ISTA – Taza
-    2022 - 2025 : Cycle Ingénieur – Génie Informatique
-                : SUPMTI – Rabat
-    2022 : Stage Systèmes Informatiques
-         : OMNEVA – Taza
-    2022 : Stage Développeur Web
-         : VENVAUKT – Taza
-    2022 - 2023 : Mailer / Assistant Informatique
-                : WMN – Tanger
-    2025 : Stage Systèmes d’Information
-         : R.A.D.E.E.T.A – Taza
-```
+    dateFormat  YYYY
+    axisFormat  %Y
+
+    section Études
+    Baccalauréat Sciences Mathématiques :done, 2019, 2020
+    Technicien Spécialisé en Développement Informatique :done, 2020, 2022
+    Cycle Ingénieur – Génie Informatique :active, 2022, 2025
+
+    section Stages
+    Stage Systèmes Informatiques :done, 2022, 2022
+    Stage Développeur Web :done, 2022, 2022
+    Stage Systèmes d’Information :done, 2025, 2025
+
+    section Expérience Professionnelle
+    Mailer / Assistant Informatique :done, 2022, 2023
+
 
 ---
 
