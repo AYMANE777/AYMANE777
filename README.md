@@ -27,25 +27,34 @@
 
 ## 👨‍💻 À Propos de Moi
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Ing%C3%A9nieur+en+Informatique;Syst%C3%A8mes+d%E2%80%99Information+%26+Intelligence+Artificielle;D%C3%A9veloppement+Logiciel+Orient%C3%A9+Performance;Innovation+%7C+S%C3%A9curit%C3%A9+%7C+Qualit%C3%A9" /> </div>
-```javascript
 const aymane = {
-  role: "Ingénieur en Informatique",
+  identity: {
+    role: "Ingénieur en Informatique",
+    location: "Taza, Maroc 🇲🇦"
+  },
+
   specialization: [
     "Systèmes d’Information",
     "Développement Logiciel",
     "Intelligence Artificielle"
   ],
-  education: "Cycle Ingénieur – Génie Informatique (SUPMTI Rabat)",
-  location: "Taza, Maroc 🇲🇦",
+
+  education: {
+    degree: "Cycle Ingénieur – Génie Informatique",
+    school: "SUPMTI – Rabat"
+  },
+
   expertise: [
-    "Applications web performantes et sécurisées",
-    "Gestion des accès et sécurité applicative",
-    "Analyse de données et solutions IA"
+    "Conception d’applications web performantes et sécurisées",
+    "Sécurité applicative & gestion des accès",
+    "Analyse de données & solutions basées sur l’IA"
   ],
-  mindset: "Rigueur • Performance • Innovation",
-  objective: "Concevoir des solutions fiables à forte valeur ajoutée"
+
+  mindset: ["Rigueur", "Performance", "Innovation"],
+
+  objective: "Créer des solutions fiables à forte valeur ajoutée"
 };
-```
+
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/> </div>
 ---
 
