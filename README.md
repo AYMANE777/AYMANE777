@@ -35,28 +35,38 @@ const aymane = {
     "Intelligence Artificielle"
   ],
   education: "Cycle Ingénieur – Génie Informatique (SUPMTI Rabat)",
-  location: "Taza, Maroc",
-  skills: [
-    "Conception d’applications web performantes",
-    "Sécurité applicative et gestion des accès",
-    "Analyse de données et intelligence artificielle"
+  location: "Taza, Maroc 🇲🇦",
+  expertise: [
+    "Applications web performantes et sécurisées",
+    "Gestion des accès et sécurité applicative",
+    "Analyse de données et solutions IA"
   ],
-  mindset: "Rigueur, performance, innovation",
-  objective: "Créer des solutions à forte valeur ajoutée"
+  mindset: "Rigueur • Performance • Innovation",
+  objective: "Concevoir des solutions fiables à forte valeur ajoutée"
 };
+
 
 ---
 
 ## Parcours Académique & Professionnel
 
-Parcours Académique & Professionnel
-2019-2020 : Baccalauréat Sciences Mathématiques – Lycée Ali Ben Berri – Taza  
-2020-2022 : Technicien Spécialisé en Développement Informatique – ISTA Taza  
-2022-2025 : Cycle Ingénieur – Génie Informatique – SUPMTI Rabat  
-2022 : Stage Systèmes Informatiques – OMNEVA – Taza  
-2022 : Stage Développeur Web – VENVAUKT – Taza  
-2022-2023 : Mailer / Assistant Informatique – WMN – Tanger  
-2025 : Stage Systèmes d’Information – R.A.D.E.E.T.A – Taza  
+timeline
+    title Parcours Académique & Professionnel
+    2019-2020 : Baccalauréat Sciences Mathématiques
+              : Lycée Ali Ben Berri – Taza
+    2020-2022 : Technicien Spécialisé en Développement Informatique
+              : ISTA – Taza
+    2022-2025 : Cycle Ingénieur – Génie Informatique
+              : SUPMTI – Rabat
+    2022 : Stage Systèmes Informatiques
+         : OMNEVA – Taza
+    2022 : Stage Développeur Web
+         : VENVAUKT – Taza
+    2022-2023 : Mailer / Assistant Informatique
+              : WMN – Tanger
+    2025 : Stage Systèmes d’Information
+         : R.A.D.E.E.T.A – Taza
+
 
 ---
 
