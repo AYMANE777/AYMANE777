@@ -40,7 +40,7 @@ const aymane = {
 
   specialization: [
     "Systèmes d’Information",
-    "Développement Logiciel",
+    "Développeure Full Stack",
     "Intelligence Artificielle"
   ],
 
@@ -69,16 +69,12 @@ const aymane = {
 ```mermaid
 timeline
     title Parcours Académique & Professionnel
-
-    section Formation
     2019 - 2020 : Baccalauréat Sciences Mathématiques
                 : Lycée Ali Ben Berri – Taza
     2020 - 2022 : Technicien Spécialisé en Développement Informatique
                 : ISTA – Taza
     2022 - 2025 : Cycle Ingénieur – Génie Informatique
                 : SUPMTI – Rabat
-
-    section Expériences
     2022 : Stage Systèmes Informatiques
          : OMNEVA – Taza
     2022 : Stage Développeur Web
