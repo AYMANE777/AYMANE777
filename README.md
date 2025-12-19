@@ -27,6 +27,7 @@
 
 ## 👨‍💻 À Propos de Moi
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Ing%C3%A9nieur+en+Informatique;Syst%C3%A8mes+d%E2%80%99Information+%26+Intelligence+Artificielle;D%C3%A9veloppement+Logiciel+Orient%C3%A9+Performance;Innovation+%7C+S%C3%A9curit%C3%A9+%7C+Qualit%C3%A9" /> </div>
+```javascript
 const aymane = {
   role: "Ingénieur en Informatique",
   specialization: [
@@ -44,12 +45,13 @@ const aymane = {
   mindset: "Rigueur • Performance • Innovation",
   objective: "Concevoir des solutions fiables à forte valeur ajoutée"
 };
-
+```
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/> </div>
 ---
 
 ## Parcours Académique & Professionnel
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Formation+Acad%C3%A9mique;Exp%C3%A9riences+Professionnelles;Mont%C3%A9e+en+Comp%C3%A9tences+Continue" /> </div>
+```mermaid
 timeline
     title Parcours Académique & Professionnel
     2019-2020 : Baccalauréat Sciences Mathématiques
@@ -66,7 +68,7 @@ timeline
               : WMN – Tanger
     2025 : Stage Systèmes d’Information
          : R.A.D.E.E.T.A – Taza
-
+```
 
 ---
 
