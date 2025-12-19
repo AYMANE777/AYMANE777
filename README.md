@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=AYMANE%20BRIOUEL&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=800&lines=Ingénieur+Informatique;Systèmes+d’Information+%26+IA;Développement+Logiciel+%26+Web;Performance+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Ingénieur+Informatique;Systèmes+d’Information+%26+IA;Développement+Logiciel+%26+Web;Performance+%26+Innovation" />
 </p>
 
 <p>
@@ -16,8 +16,8 @@
   <a href="https://github.com/AYMANE777">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="tel:+212600319784">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  <a href="tel:+212658597927">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -26,7 +26,12 @@
 ---
 
 ## 👨‍💻 À Propos de Moi
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Ing%C3%A9nieur+en+Informatique;Syst%C3%A8mes+d%E2%80%99Information+%26+Intelligence+Artificielle;D%C3%A9veloppement+Logiciel+Orient%C3%A9+Performance;Innovation+%7C+S%C3%A9curit%C3%A9+%7C+Qualit%C3%A9" /> </div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Ingénieur+en+Informatique;Systèmes+d’Information+%26+Intelligence+Artificielle;Développement+Logiciel+Orienté+Performance;Innovation+•+Sécurité+•+Qualité" />
+</div>
+
+```javascript
 const aymane = {
   identity: {
     role: "Ingénieur en Informatique",
@@ -45,7 +50,7 @@ const aymane = {
   },
 
   expertise: [
-    "Conception d’applications web performantes et sécurisées",
+    "Applications web performantes et sécurisées",
     "Sécurité applicative & gestion des accès",
     "Analyse de données & solutions basées sur l’IA"
   ],
@@ -55,6 +60,7 @@ const aymane = {
   objective: "Créer des solutions fiables à forte valeur ajoutée"
 };
 
+
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/> </div>
 ---
 
@@ -63,18 +69,22 @@ const aymane = {
 ```mermaid
 timeline
     title Parcours Académique & Professionnel
-    2019-2020 : Baccalauréat Sciences Mathématiques
-              : Lycée Ali Ben Berri – Taza
-    2020-2022 : Technicien Spécialisé en Développement Informatique
-              : ISTA – Taza
-    2022-2025 : Cycle Ingénieur – Génie Informatique
-              : SUPMTI – Rabat
+
+    section Formation
+    2019 - 2020 : Baccalauréat Sciences Mathématiques
+                : Lycée Ali Ben Berri – Taza
+    2020 - 2022 : Technicien Spécialisé en Développement Informatique
+                : ISTA – Taza
+    2022 - 2025 : Cycle Ingénieur – Génie Informatique
+                : SUPMTI – Rabat
+
+    section Expériences
     2022 : Stage Systèmes Informatiques
          : OMNEVA – Taza
     2022 : Stage Développeur Web
          : VENVAUKT – Taza
-    2022-2023 : Mailer / Assistant Informatique
-              : WMN – Tanger
+    2022 - 2023 : Mailer / Assistant Informatique
+                : WMN – Tanger
     2025 : Stage Systèmes d’Information
          : R.A.D.E.E.T.A – Taza
 ```
