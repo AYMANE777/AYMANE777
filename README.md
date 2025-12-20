@@ -74,23 +74,30 @@ timeline
     2019-2020 : Baccalauréat Sciences Mathématiques
               : Lycée Ali Ben Berri – Taza
 
-    2020-2022 : Technicien Spécialisé en Développement Informatique
-              : ISTA – Taza
+    2020-10 : Début Technicien Spécialisé en Développement Informatique
+            : ISTA – Taza
 
-    2022-2025 : Cycle Ingénieur – Génie Informatique
-              : SUPMTI – Rabat
+    2022-02 : Stage Systèmes d’Information
+            : R.A.D.E.E.T.A – Taza (Fév – Avr 2022)
 
-    2022 : Stage Systèmes Informatiques
-         : OMNEVA – Taza
+    2022-05 : Stage Développeur Web
+            : VENVAUKT – Taza (Mai – Oct 2022)
 
-    2022 : Stage Développeur Web
-         : VENVAUKT – Taza
+    2022-07 : Fin Technicien Spécialisé en Développement Informatique
+            : ISTA – Taza
 
-    2022-2023 : Mailer / Assistant Informatique
-              : WMN – Tanger
+    2022-10 : Début Cycle Ingénieur – Génie Informatique
+            : SUPMTI – Rabat
 
-    2025 : Stage Systèmes d’Information
-         : R.A.D.E.E.T.A – Taza
+    2022-10 : Poste Mailer / Assistant Informatique
+            : WMN – Tanger (Oct 2022 – Oct 2023)
+
+    2025-06 : Fin Cycle Ingénieur – Génie Informatique
+            : SUPMTI – Rabat
+
+    2025-07 : Stage Systèmes Informatiques
+            : OMNEVA – Taza (Juil – Sept 2025)
+    
 ```
 ---
 
