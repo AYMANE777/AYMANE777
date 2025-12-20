@@ -213,12 +213,12 @@ Anglais : Intermédiaire
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=140&section=footer"/>
-
+<p><em>Built with passion • Engineering mindset • Continuous improvement</em></p>
 <h3>AYMANE BRIOUEL</h3>
 
 <p>
   <strong>Ingénieur Informatique</strong><br/>
-  Systèmes d’Information • IA • Développement Logiciel
+  Systèmes d’Information • IA • Développement Informatique
 </p>
 
 <p>
