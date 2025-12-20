@@ -210,7 +210,7 @@ timeline
 </table>
 
 </div>
----
+
 ## Centres d’Intérêt
 
 <div align="center">
