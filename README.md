@@ -137,7 +137,8 @@ timeline
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" alt="JWT"/>
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge" alt="CI/CD"/>
 </p>
-### Frontend Development
+
+###  Frontend Development
 <p>
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
