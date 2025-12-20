@@ -200,7 +200,11 @@ Anglais : Intermédiaire
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYMANE777&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
 ---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYMANE777&theme=tokyo-night&hide_border=true" />
+</div>
 
 <div align="center">
 
