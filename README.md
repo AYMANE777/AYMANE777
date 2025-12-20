@@ -207,6 +207,10 @@ Anglais : Intermédiaire
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AYMANE777&style=for-the-badge&color=blueviolet" />
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
 
