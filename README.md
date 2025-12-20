@@ -178,20 +178,7 @@ timeline
 </p>
 ---
 
-## Expériences Clés
 
-WMN – Tanger | Mailer / Assistant Informatique (Oct 2022 – Oct 2023)
-- Maintenance et support des systèmes informatiques
-- Développement et amélioration des plateformes web
-- Gestion technique des campagnes mailing
-- Optimisation des performances et résolution des incidents
-
-R.A.D.E.E.T.A – Taza | Stage Systèmes d’Information (2025)
-- Support informatique et assistance technique
-- Analyse des besoins fonctionnels
-- Contribution aux projets SI internes
-
----
 
 ## Langues
 
