@@ -212,8 +212,34 @@ Anglais : Intermédiaire
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=140&section=footer"/>
 
-### Ingénierie • Performance • Innovation
+<h3>AYMANE BRIOUEL</h3>
+
+<p>
+  <strong>Ingénieur Informatique</strong><br/>
+  Systèmes d’Information • IA • Développement Logiciel
+</p>
+
+<p>
+  <em>Ingénierie • Performance • Innovation</em>
+</p>
+
+<p>
+  <a href="mailto:briouelaymane0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aymane-briouel-582540224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AYMANE777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  🇲🇦 Maroc • Disponible pour opportunités & projets
+</p>
 
 </div>
+
