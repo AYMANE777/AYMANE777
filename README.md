@@ -189,11 +189,46 @@ timeline
 
 ## Langues
 
-Arabe : Maternelle  
-Français : B2  
-Anglais : Intermédiaire  
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center"><strong>Arabe</strong></td>
+    <td align="center">Maternelle</td>
+    <td align="center">🇲🇦</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Français</strong></td>
+    <td align="center">B2 – Professionnel</td>
+    <td align="center">🇫🇷</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Anglais</strong></td>
+    <td align="center">Intermédiaire</td>
+    <td align="center">🇬🇧</td>
+  </tr>
+</table>
+
+</div>
 ---
+## Centres d’Intérêt
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">🤖 <br/><strong>Intelligence Artificielle</strong><br/>Vision par ordinateur, ML</td>
+    <td align="center">💻 <br/><strong>Développement Logiciel</strong><br/>Clean Code & performance</td>
+    <td align="center">📊 <br/><strong>Data & Analyse</strong><br/>Décision basée sur les données</td>
+  </tr>
+  <tr>
+    <td align="center">🔐 <br/><strong>Cybersécurité</strong><br/>Sécurité applicative</td>
+    <td align="center">☁️ <br/><strong>Cloud & DevOps</strong><br/>CI/CD, conteneurs</td>
+    <td align="center">📚 <br/><strong>Veille Technologique</strong><br/>Nouvelles technologies</td>
+  </tr>
+</table>
+
+</div>
 
 ## GitHub Stats
 <div align="center">
