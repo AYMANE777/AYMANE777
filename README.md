@@ -95,8 +95,8 @@ timeline
     2025-06 : Fin Cycle Ingénieur – Génie Informatique
             : SUPMTI – Rabat
 
-    2025-07 : Stage Systèmes Informatiques
-            : Tribunal Premier Instance – Taza (Jan – Jub 2026)
+    2026-01 : Stage Systèmes Informatiques
+            : Tribunal Premier Instance – Taza (Jan – Jul 2026)
     
 ```
 ---
