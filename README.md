@@ -265,7 +265,7 @@ timeline
 </p>
 
 <p>
-  🇲🇦 Maroc • Disponible pour opportunités & projets
+  • Disponible pour opportunités & projets
 </p>
 
 </div>
