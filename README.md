@@ -96,7 +96,7 @@ timeline
             : SUPMTI – Rabat
 
     2025-07 : Stage Systèmes Informatiques
-            : OMNEVA – Taza (Juil – Sept 2025)
+            : Tribunal Premier Instance – Taza (Jan – Jub 2026)
     
 ```
 ---
